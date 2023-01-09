@@ -1,0 +1,23 @@
+20 20
+G.GWWG..GWW...GGW..W
+WGWWG.W.G..GWGWG...G
+.G..G.G..G.W.WWGGWW.
+.GG.G..WWGW...W.G...
+.WWW.GGG..GW.G.GGWGW
+WG...GWWGG...G...WW.
+.WG....G.W..W.G.....
+....W.WGG....G......
+..W.GW..GW.G.W...W..
+G.W..GGGG.W..G...G.W
+WG.GGG...W..W.GG..W.
+W..W.GG.WWWWG.G.W.GG
+G..G....G..WG..W..WG
+.W..G..WW..W...G.G.W
+..GW.WWW...G.WWWG...
+WGW.W.G....WGW.W..G.
+...G.WWGGWG.GGG..W.G
+GGW.W.W.G.....W.WWW.
+...G.WWW..WGG.WG..W.
+...W.GGWGWG.WW.W..G.
+
+0 0
